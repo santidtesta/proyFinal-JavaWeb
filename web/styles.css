@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 31 oct 2023, 18:17:07
+    Author     : Santino
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Poppins&family=Quicksand&display=swap');
+
+*{
+    font-family: 'Poppins', Tahoma, Verdana, sans-serif;
+}
+
+body{
+    background-color: #535353;
+    
+}
+
+.form-label {
+    color: #f8f9fa;
+}
+
+.form-control{
+    background-color: #212529;
+    border-color: #212529;
+}
+
+#search{
+    background-color: #fff;
+}
